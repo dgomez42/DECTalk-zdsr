@@ -1,0 +1,18 @@
+LIBRARY DECTalk
+EXPORTS
+    GetOpenTTSInfo
+    Initial
+    GetVoiceCount
+    GetVoiceName
+    SetResponseSpeed
+    SetParam
+    IsSpeaking
+    IsControlNumricType
+    Speak
+    Stop
+    Pause
+    Resume
+    GetAudioFormat
+    TextToAudio
+    OpenSettings
+    UnInitial

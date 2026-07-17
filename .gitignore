@@ -1,0 +1,18 @@
+# Build output
+DECTalk.dll
+DECTalk.lib
+DECTalk.exp
+DECTalk.obj
+DECTalk.res
+wave_player.obj
+
+# Build output directories
+Win32/
+
+# Visual Studio user files
+.vs/
+DECTalk.vcxproj.user
+*.suo
+
+# Runtime log
+DECTalk_debug.log
